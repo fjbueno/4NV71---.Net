@@ -1,0 +1,12 @@
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\bin\Debug\net6.0\ProyectoAssembly.Shared.deps.json
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\bin\Debug\net6.0\ProyectoAssembly.Shared.dll
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\bin\Debug\net6.0\ProyectoAssembly.Shared.pdb
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ProyectoAssembly.Shared.csproj.AssemblyReference.cache
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ProyectoAssembly.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ProyectoAssembly.Shared.AssemblyInfoInputs.cache
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ProyectoAssembly.Shared.AssemblyInfo.cs
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ProyectoAssembly.Shared.csproj.CoreCompileInputs.cache
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ProyectoAssembly.Shared.dll
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\refint\ProyectoAssembly.Shared.dll
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ProyectoAssembly.Shared.pdb
+C:\Users\fbuen\Documents\.Net\ProyectoAssembly\ProyectoAssembly\Shared\obj\Debug\net6.0\ref\ProyectoAssembly.Shared.dll

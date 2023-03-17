@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\obj\\Debug\\net6.0\\build-gz\\bn22etiF.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-500.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-700.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand-v8-latin-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\css\\font\\quicksand.css",
+      "PackagePath": "staticwebassets\\css\\font\\quicksand.css"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\images\\icon-512.png",
+      "PackagePath": "staticwebassets\\images\\icon-512.png"
+    },
+    {
+      "Id": "C:\\Users\\fbuen\\Documents\\.Net\\ProyectoAssembly\\ProyectoAssembly\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProyectoAssembly.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProyectoAssembly.Client.props",
+      "PackagePath": "build\\ProyectoAssembly.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProyectoAssembly.Client.props",
+      "PackagePath": "buildMultiTargeting\\ProyectoAssembly.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProyectoAssembly.Client.props",
+      "PackagePath": "buildTransitive\\ProyectoAssembly.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
